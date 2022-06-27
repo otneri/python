@@ -1,0 +1,8 @@
+n1 = int(input('Digite um numero:'))
+print('-'*12)
+print('{} x {:^4} = {}'.format(n1,1,n1*1))
+print('{} x {} = {}'.format(n1,2,n1*2))
+print('{} x {} = {}'.format(n1,3,n1*3))
+print('{} x {} = {}'.format(n1,4,n1*4))
+print('{} x {} = {}'.format(n1,5,n1*5))
+print('-'*12)
